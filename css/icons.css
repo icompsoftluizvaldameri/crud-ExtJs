@@ -1,0 +1,15 @@
+.create-icon{
+    background-image: url(../icons/create-icon.png);
+}
+.delete-icon{
+    background-image: url(../icons/delete-icon.png)
+}
+.grid-icon{
+    background-image: url(../icons/grid-icon.png);
+}
+.save-icon{
+    background-image: url(../icons/save-icon.png);
+}
+.cancel-icon{
+background-image: url(../icons/cancel-icon.png);
+}
